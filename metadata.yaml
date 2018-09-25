@@ -1,5 +1,8 @@
 _repo: The-thread-of-life_57768
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57768-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Eulalia, Infanta of Spain
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '49593'
     url: http://www.gutenberg.org/2009/agents/49593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57768#The-thread-of-life
 gutenberg_issued: '2018-08-25'
 gutenberg_type: Text
 identifiers:
