@@ -1,0 +1,39 @@
+_repo: The-thread-of-life_57768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eulalia, Infanta of Spain
+    aliases:
+    - Borbón, Eulalia de
+    - Borbón y Borbón, María Eulalia de
+    - Borbon y Borbon, Maria Eulalia de
+    - Eulalie, Infanta of Spain
+    - Avila, Comtesse de
+    birthdate: 1864
+    deathdate: 1958
+    gutenberg_agent_id: '49593'
+    url: http://www.gutenberg.org/2009/agents/49593
+description: ''
+gutenberg_issued: '2018-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'H'
+- !lcsh 'Social problems'
+- !lcsh 'Social sciences'
+- GITenberg
+tableOfContents: General causes of happiness -- The education of the will -- Honesty
+  -- Friendship -- Divorce -- The family -- The complete independence of woman --
+  The war against feminism -- The equalising of classes by education -- Socialism
+  -- The working classes -- Domestic service -- International schools -- The necessity
+  of religion and its influence over the people -- The press -- Morality -- Public
+  opinion -- Prejudices -- Judgment -- The fear of ridicule -- Moral courage -- Traditions
+  -- Criticism -- The danger of excessive analysis -- The law of compensation -- The
+  author and her book.
+title: The thread of life
+url: http://www.gutenberg.org/ebooks/57768
